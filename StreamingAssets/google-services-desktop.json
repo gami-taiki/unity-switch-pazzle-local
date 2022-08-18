@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "116347085683",
+    "project_id": "unity-reversepazzle",
+    "storage_bucket": "unity-reversepazzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116347085683:android:7538f54c19d021c7699b06",
+        "android_client_info": {
+          "package_name": "unity.reversepazzle.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116347085683-i1viprp72rk5qu2evk8b3ubg0jpjd44a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKMti-TWfTp-cFcWdRwQ-VdykcaeDkRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116347085683-i1viprp72rk5qu2evk8b3ubg0jpjd44a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116347085683-jq807t75c6recnk80puen9pov96bbnmu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "unity.reversepazzle.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
